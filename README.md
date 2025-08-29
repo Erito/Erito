@@ -7,11 +7,11 @@
 ### 📝 About Me
 
     👋 Hi, I’m Titus Ericson Bianto
-    🌱 I’m currently learning to be Software Engineering
+    🌱 I’m currently learning to be Software Development
     😄 Pronouns: Its your generation
     ⚡ Fun fact: "I'm not lazy, I'm just saving energy for this moment"
 - 🎓 Bachelor of Informatics from **MULTIMEDIA NUSANTARA UNIVERSITY**
-- 🤖 Focus on Software Engineering Areas
+- 🤖 Focus on Software Development Areas
 - 💻 Solid Working Background in Web Development
 
 ---
