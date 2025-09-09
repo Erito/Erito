@@ -39,7 +39,7 @@
 ### Connect with Me
 
 <div align="left">
-  <a href="https://instagram.com/titusbianto" target="_blank">
+  <a href="https://instagram.com/titus_erito" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/titus-ericson-bianto-31a956314/" target="_blank">
