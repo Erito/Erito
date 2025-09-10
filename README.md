@@ -48,5 +48,5 @@
 </div>
 
 ---
-![snake gif](https://github.com/Erito/Erito/blob/output/github-snake-dark.svg)  
+![snake gif](https://github.com/Erito/Erito/blob/output/github-snake-dark.svg)
 
